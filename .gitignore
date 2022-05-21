@@ -1,4 +1,6 @@
 .*
 !.gitignore
 
+build/
+venv/
 *.bak
