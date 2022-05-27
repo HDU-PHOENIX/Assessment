@@ -1,0 +1,3 @@
+/home/exia/git/Assessment/cpp/CMakeFiles/demo.dir
+/home/exia/git/Assessment/cpp/CMakeFiles/edit_cache.dir
+/home/exia/git/Assessment/cpp/CMakeFiles/rebuild_cache.dir

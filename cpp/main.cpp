@@ -28,10 +28,9 @@
  * Matrix Matrix::operator/(const Matrix& other)                    10 points
  * bool Matrix::operator==(const Matrix& other)                     10 points
  */
-
-#include "matrix.h"
-
-int main() {
+#include "./myMatrix.h"
+int main()
+{
     int rows, cols;
 
     std::cin >> rows >> cols;
@@ -41,8 +40,7 @@ int main() {
     std::cin >> rows >> cols;
     Matrix B(rows, cols);
     std::cin >> B;
-
-    std::cout << A * B;
+    std::cout<<A*B<<std::endl;
 
     return 0;
-}
+};
