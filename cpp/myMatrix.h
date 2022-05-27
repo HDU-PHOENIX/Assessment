@@ -1,4 +1,4 @@
-#ifndef _m_
+/*#ifndef _m_
 #define _m_
 #include<iostream>
 class Matrix
@@ -13,7 +13,7 @@ public:
     Matrix operator*(const Matrix &mat); //重载*实现矩阵相乘
 
     /****            额外                *****/
-    Matrix(int a, int b, int **matrix); //构造函数重载
+   /* Matrix(int a, int b, int **matrix); //构造函数重载
     Matrix(const Matrix &mat); //构造函数重载
     bool operator==(const Matrix &mat); //等值运算符的重载
     Matrix operator=(const Matrix &mat); //重载赋值运算符，浅复制

@@ -1,0 +1,3 @@
+/home/exia/git/Assessment/opencv/CMakeFiles/demo.dir
+/home/exia/git/Assessment/opencv/CMakeFiles/edit_cache.dir
+/home/exia/git/Assessment/opencv/CMakeFiles/rebuild_cache.dir

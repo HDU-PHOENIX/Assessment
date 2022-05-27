@@ -1,4 +1,4 @@
-#include "./myMatrix.h"
+/*#include "./myMatrix.h"
 class Matrix
 {
 public:
@@ -188,4 +188,4 @@ private:
     int rows;
     int cols;
     int **p;
-};
+};*/
